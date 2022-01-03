@@ -11,6 +11,17 @@
     float: right;
 }
 
+.imageblock.left {
+    left: -30px;
+    float: left;
+    padding-right: 5px;
+}
+
+.admonitionblock table {
+    text-align: left;
+    margin-left: 0em;
+}
+
 .reveal .imageblock img {
     border-width: inherit;
     box-shadow: inherit;
